@@ -1,5 +1,5 @@
 # Discord Goldbot of the Imperials
-The fucking coder of this abused a new preview feature that we haven't got yet, that's why there are so many errors.
+The fucking coder of this abused a new preview feature that we haven't got yet, that's why there are so many errors. Ask him how to get it once you get his contact again, I like it.
 
 I hope you get what to do based on the examples below:
 
